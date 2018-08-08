@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dao" />
+        <module name="pojo" />
+        <module name="sso_Dao" />
+        <module name="sso_service" />
+        <module name="sso_ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dao" target="1.7" />
+      <module name="parent_Project" target="1.7" />
+      <module name="pojo" target="1.7" />
+      <module name="sso_Dao" target="1.7" />
+      <module name="sso_Parent" target="1.7" />
+      <module name="sso_service" target="1.7" />
+      <module name="sso_ui" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

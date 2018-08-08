@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sso_ui:war">
+    <output-path>$PROJECT_DIR$/../sso_Parent/sso_ui/target</output-path>
+    <root id="archive" name="sso_ui-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sso_ui:war exploded" />
+    </root>
+  </artifact>
+</component>
